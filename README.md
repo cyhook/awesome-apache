@@ -8,9 +8,7 @@
 | accumulo-fluo_yarn | Apache Fluo YARN | Apache Fluo YARN is a tool for running Apache Fluo applications in Apache Hadoop YARN. | Active |
 | activemq | Apache ActiveMQ | ActiveMQ is the most popular and powerful open source Message Broker. | Active |
 | age | Apache AGE | Apache AGE™ is a PostgreSQL extension that provides graph database functionality. | Active |
-| airavata | Apache Airavata | Apache Airavata is a distributed system software framework to manage simple to
-            composite applications with complex execution and workflow patterns on diverse
-            computational resources. | Active |
+| airavata | Apache Airavata | Apache Airavata is a distributed system software framework to manage simple to composite applications with complex execution and workflow patterns on diverse computational resources. | Active |
 | airflow | Apache Airflow | Workflow automation platform | Active |
 | allura | Apache Allura | Forge software for hosting software projects | Active |
 | ambari | Apache Ambari | Hadoop cluster management | Active |
@@ -36,8 +34,7 @@
 | attic-beehive | Apache Beehive | Beehive makes J2EE programming easier by building a simple object model on J2EE and Struts | Retired |
 | attic-buildr | Apache Buildr | Apache Buildr is a build system for Java-based applications, including support for Scala, Groovy and a growing number of JVM languages and tools. | Retired |
 | attic-chemistry | Apache Chemistry | Apache Chemistry provides open source implementations of the Content Management Interoperability Services (CMIS) specification. | Retired |
-| attic-chukwa | Apache Chukwa | Chukwa is an open source data collection system for monitoring 
-      large distributed systems. | Retired |
+| attic-chukwa | Apache Chukwa | Chukwa is an open source data collection system for monitoring  large distributed systems. | Retired |
 | attic-clerezza | Apache Clerezza | Clerezza is a service platform which provides a set of functionality for management of semantically linked data accessible through RESTful Web Services and in a secured way | Retired |
 | attic-click | Apache Click | Simple and easy-to-use Java Web Framework | Retired |
 | attic-cocoon | Apache Cocoon | Web development framework: separation of concerns, component-based. | Retired |
@@ -53,8 +50,5 @@
 | attic-falcon | Apache Falcon | Data management and processing platform | Retired |
 | attic-forrest | Apache Forrest | Aggregated multi-channel documentation framework, separation of concerns. | Retired |
 | attic-giraph | Apache Giraph | Apache Giraph is an iterative graph processing system built for high scalability. | Retired |
-| attic-gora | Apache Gora | The Apache Gora open source framework provides an in-memory data model and 
-         persistence for big data. Gora supports persisting to column stores, key value stores, 
-         document stores, distributed in-memory key/value stores, in-memory data grids, in-memory caches,
-        distributed multi-model stores, and hybrid in-memory architectures. | Retired |
+| attic-gora | Apache Gora | The Apache Gora open source framework provides an in-memory data model and  persistence for big data. Gora supports persisting to column stores, key value stores,  document stores, distributed in-memory key/value stores, in-memory data grids, in-memory caches, distributed multi-model stores, and hybrid in-memory architectures. | Retired |
 | attic-griffin | Apache Griffin | Big Data Quality Solution For Batch and Streaming. | Retired |
